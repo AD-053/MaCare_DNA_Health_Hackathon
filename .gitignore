@@ -2,7 +2,7 @@
 # Do not ignore entire Back-end so it can be pushed
 node_modules
 Front-end/node_modules/
-Back-end/public/Temp/
+# Back-end/public/Temp/
 Front-end/dist/
 Back-end/dist/
 Front-end/build/
